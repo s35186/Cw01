@@ -1,3 +1,9 @@
+// TODO: musimy dodac brakujace klasy!
+
+public class Adder(){}
+
+public class Subtractor(){}
+
 public class Main {
     public static void main(String[] args){
         Adder adder = new Adder();
